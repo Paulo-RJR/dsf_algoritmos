@@ -14,7 +14,7 @@ escolher qual algoritmo queira executar.
 
 ### Menu de escolha:
 
-![Resultado Menu dos Algoritmos](https://github.com/Paulo-RJR/ds_algoritmos/blob/master/img-executados/menu.png)  
+![Resultado Menu dos Algoritmos](https://github.com/Paulo-RJR/dsf_algoritmos/blob/master/img-executados/menu.png)  
 
 ***
 
@@ -59,7 +59,7 @@ escolher qual algoritmo queira executar.
 
 ### Resultado final:
 
-![Resultado Conjectura de Collatz](https://github.com/Paulo-RJR/ds_algoritmos/blob/master/img-executados/collatz.png)  
+![Resultado Conjectura de Collatz](https://github.com/Paulo-RJR/dsf_algoritmos/blob/master/img-executados/collatz.png)  
 
 ***
 
@@ -74,7 +74,7 @@ escolher qual algoritmo queira executar.
 
 ### Resultado final:
 
-![Resultado Soma Máxima](https://github.com/Paulo-RJR/ds_algoritmos/blob/master/img-executados/soma.png)  
+![Resultado Soma Máxima](https://github.com/Paulo-RJR/dsf_algoritmos/blob/master/img-executados/soma.png)  
 
 ***
 
@@ -106,7 +106,7 @@ Nesse programa, estamos preocupados apenas com a média. A depender da configura
       
 ### Resultado final:
 
-![Resultado Temperatura](https://github.com/Paulo-RJR/ds_algoritmos/blob/master/img-executados/temperatura.png)  
+![Resultado Temperatura](https://github.com/Paulo-RJR/dsf_algoritmos/blob/master/img-executados/temperatura.png)  
 
 
 ***
