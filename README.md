@@ -1,7 +1,7 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/Paulo-RJR/ds_algoritmos)
-![GitHub](https://img.shields.io/github/license/Paulo-RJR/ds_algoritmos)
-![GitHub language count](https://img.shields.io/github/languages/count/Paulo-RJR/ds_algoritmos)
-![GitHub top language](https://img.shields.io/github/languages/top/Paulo-RJR/ds_algoritmos)
+![GitHub repo size](https://img.shields.io/github/repo-size/Paulo-RJR/dsf_algoritmos)
+![GitHub](https://img.shields.io/github/license/Paulo-RJR/dsf_algoritmos)
+![GitHub language count](https://img.shields.io/github/languages/count/Paulo-RJR/dsf_algoritmos)
+![GitHub top language](https://img.shields.io/github/languages/top/Paulo-RJR/dsf_algoritmos)
 
 ***
 
