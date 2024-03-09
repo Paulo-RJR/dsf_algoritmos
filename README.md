@@ -74,7 +74,7 @@ escolher qual algoritmo queira executar.
 
 ### Resultado final:
 
-![Resultado Soma Máxima](https://github.com/Paulo-RJR/dsf_algoritmos/blob/master/img-executados/soma.png)  
+![Resultado Soma Máxima](https://github.com/Paulo-RJR/dsf_algoritmos/blob/master/img-executados/soma1.png)  
 
 ***
 
