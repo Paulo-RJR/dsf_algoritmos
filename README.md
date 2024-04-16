@@ -21,10 +21,10 @@ escolher qual algoritmo queira executar.
 ## 1º - Desafio - Conjectura de Collatz:
 
 - A Conjectura de Collatz é um problema aberto da Matemática, que diz o seguinte:
-  - A partir de um número natural fornecido, construa um sequência tal que o próximo elemento será:
+  - A partir de um número natural fornecido, construa uma sequência tal que o próximo elemento será:
     - 3 x n + 1, se o número for ímpar;
     - n / 2, se o número for par.
-  - Até hoje não foi encontrado um contraexemplo, mas essa conjectura também nunca foi provada.
+  - Até hoje não foi encontrado um contra exemplo, mas essa conjectura também nunca foi provada.
    
   Tarefa-1:
     - Construa um algoritmo que receba um número indicando o valor inicial e devolva qual o tamanho da sequência gerada.
@@ -81,12 +81,12 @@ escolher qual algoritmo queira executar.
 ## 3º - Desafio - Temperatura:
 
 Um grupo de engenheiros está tentando construir um equipamento que será utilizado em condições inóspitas no espaço e sujeito a grandes 
-variáções de temperatura. Para isso aqui, na Terra utilizam diferentes câmaras quentes ou frias e ficam trocando aleatoriamente diferentes
+variáções de temperatura. Para isso, aqui na Terra utilizam diferentes câmaras quentes ou frias e ficam trocando aleatoriamente diferentes
 amostras de materiais entre as diferentes câmaras. Essas trocas ocorrem a cada determinado intervalo de tempo. Para entender como a
 temperatura afeta os materiais, diversos dados estatísticos são calculados, como temperatura mímima, máxima, mediana, média, desvio, etc.
 Nesse programa, estamos preocupados apenas com a média. A depender da configuração do teste, o intervalo será diferente.
-  - Sua tarefa é criar um programa que irá ler os dois valores da entrada padrão. o primeiro representando a quantidade de medições e o
-    segundo representando o tamanho do intervalo. Por exemplo, 7 3 indica que 7 medições seguirão e o intervalo considerado será de 3
+  - Sua tarefa é criar um programa que irá ler os dois valores da entrada padrão. O primeiro representando a quantidade de medições e o
+    segundo representando o tamanho do intervalo. Por exemplo 7 e 3, indica que 7 medições seguirão e o intervalo considerado será de 3
     minutos. Suponha então que os sete números seguintes (que serão recebidos por linha) sejam 3 4 8 9 -2 -1 -3. As médias a cada três
     minutos são: (3+4+8=15)15/3=5, (4+8++9=21)21/3=7, (8+9+(-2)=15)15/3=5, (9+(-2)+(-1)=6)6/3=2, ((-1)+(-2)+(-3)=-6)-6/3=-2.   
   - Nesse exemplo, tivemos apenas números inteiros. Mas caso a média seja número decimal, considere somente a parte inteira (truncando).  
